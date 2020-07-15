@@ -14,4 +14,3 @@ openvpn 安装
 - ***使用场景***
 
     1、./ecs_restart_lxc_config.sh start|stop|restart|reload|force-reload
-    2、必须下载chrome浏览器
